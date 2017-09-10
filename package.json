@@ -7,6 +7,7 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "express": "^4.15.4"
+    "express": "^4.15.4",
+    "chalk": "^2.1.0"
   }
 }
